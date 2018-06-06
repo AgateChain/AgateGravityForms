@@ -1,0 +1,14 @@
+.gfagate_recurring_complex .gf_hidden {
+	display: none;
+}
+
+.no-js #gfagate-opt-admin-stored-beagle,
+.no-js #gfagate-opt-admin-stored-test {
+	display: none;
+}
+
+#gfagate-opt-admin-stored-beagle,
+#gfagate-opt-admin-stored-test {
+	color: #c00;
+	font-weight: bold;
+}
