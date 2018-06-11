@@ -50,3 +50,8 @@ the order.
 As a merchant, the orders in your Gravity Forms store can be treated as any other
 order. You may need to adjust the Invoice Settings depending on your order
 fulfillment.
+
+Try How It Works ?
+====================
+
+We have created a demo website for you to test the plugin, feel free to visit [here](http://www.agate.services/gravity/test/) .
