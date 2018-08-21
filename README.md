@@ -54,4 +54,4 @@ fulfillment.
 Try How It Works ?
 ====================
 
-We have created a demo website for you to test the plugin, feel free to visit [here](http://www.agate.services/gravity/test/) .
+We have created a demo website for you to test the plugin, feel free to visit [here](http://www.agate.services/gravity/test/) and enjoy the live experience.
