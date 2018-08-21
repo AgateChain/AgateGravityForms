@@ -32,7 +32,8 @@ class GFAgatePayment
 
         error_log($contents);
     }
-
+    
+    // Convert currency to iUSD
     public function convertCurToIUSD($url, $amount, $api_key, $currencySymbol) {
       error_log("Entered into Convert Amount");
         $ch = curl_init($url.'?api_key='.$api_key.'&currency='.$currencySymbol.'&amount='. $amount);
